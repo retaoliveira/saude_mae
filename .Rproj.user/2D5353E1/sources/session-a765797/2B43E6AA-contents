@@ -23,9 +23,9 @@ params:
   tipo_sanguineo: "O+"
   alergias: "Iodo de contraste"
   medicamentos_continuos: "Nao informado"
-  condicoes_relevantes: "Nao informado"
+  condicoes_relevantes: "Atrofia Muscular progressiva, hipertensão arterial"
   plano_saude: "Assefaz - Esmeralda"
-  numero_carteirinha: "Nao informado"
+  numero_carteirinha: "00010300063184005"
   medicos_referencia: "Nao informado"
   documentos_exames_link: "https://www.dropbox.com/scl/fo/27vlt9bonydqlt8b80s70/AOXIlszMPHgl1jxrgQicdhI?rlkey=tnatttivhjrh3usgtdbcyv39g&dl=0"
   observacoes: "Nao informado"
@@ -246,10 +246,6 @@ if (isTRUE(params$dav_existe)) {
   ))
 }
 ```
-
-<div class="privacy-note">
-Esta pagina contem informacoes pessoais de saude. Em hospedagem real, use link dificil de adivinhar e controle de acesso por senha ou PIN quando possivel.
-</div>
 
 <section aria-labelledby="contatos">
 <h2 id="contatos">Contatos de emergencia</h2>
