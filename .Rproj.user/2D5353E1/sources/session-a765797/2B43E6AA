@@ -3,7 +3,7 @@
     "path": "~/Dropbox/01_life/20_mae/site/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1795525102",
     "contents": "",
     "dirty": false,
     "created": 1782314867620.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,17",
-        "scrollLine": "16"
+        "cursorPosition": "43,36",
+        "scrollLine": "39"
     },
     "folds": "",
-    "lastKnownWriteTime": 1782320932,
+    "lastKnownWriteTime": 1782482868,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1782320932973,
+    "last_content_update": 1782482868048,
     "read_only": false,
     "read_only_alternatives": []
 }
